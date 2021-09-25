@@ -7,5 +7,3 @@ for item in str:
     else:
         dict[item] += 1
 print(dict)
-
-

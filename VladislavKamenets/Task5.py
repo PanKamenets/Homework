@@ -5,4 +5,3 @@ for item in list:
         list2.append(k)
 endlist = set(list2)
 print(endlist)
-
